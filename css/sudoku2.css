@@ -1,0 +1,56 @@
+
+#_WholeBoard {
+	position: absolute;
+	top: 5px;
+	height: 598px;
+	width: 612px;
+	border: 0px solid red;
+	padding: 10px;
+	margin: 10px;
+	background-color: grey;
+	border:4px solid black;
+	}
+
+.BoardRow {
+	position: relative;
+	height: 55px;
+	width:  928px;
+	padding: 5px;
+	margin: 1px;
+	}
+
+.board {
+	position: relative;
+	height: 55px;
+	width:  165px;
+	display: inline;
+	padding: 5px;
+	margin: 10px;
+	font-size: 38px;
+	border: 2px solid red;
+	}
+
+
+.ib {
+	position: relative;
+	height: 49px;
+	width:  152px;
+	display: inline;
+	padding: 5px;
+	margin: 5px;
+	text-align: center;
+	font-size: 38px;
+	border: 2px solid inset red;	
+	}
+
+.original {
+	position: relative;
+	height: 155px;
+	width:  165px;
+	display: inline;
+	padding: 5px;
+	margin: 5px;
+	font-size: 38px;
+	border: 2px solid red;
+	background-color: yellow;
+	}

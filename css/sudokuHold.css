@@ -1,0 +1,128 @@
+#titleBar {
+	position: relative;
+	top: 7px;
+	height:10px;
+	width:  1000px;
+	display: inline;
+	padding: 5px;
+	margin: 5 	px;
+	border: 0px solid red;
+	}
+	
+#buttonPlace {
+	position: absolute;
+	top: 128px;
+	left: 898px;
+	height: 27px;
+	width: 97px;
+	border: 0px solid grey;
+	}
+	
+#WholeBoard {
+	position: absolute;
+	top: 5px;
+	height: 598px;
+	width: 612px;
+	border: 0px solid red;
+	background-color: grey;
+	border:4px solid black;
+	}
+
+#WorkBoard_ {
+	position: absolute;
+	top: 50px;
+	height: 598px;
+	width: 612px;
+	border: 0px solid red;
+	background-color: grey;
+	border:4px solid black;
+	}
+	
+
+.BoardRow {
+	position: relative;
+	height: 55px;
+	width:  928px;
+	padding: 1px;
+	}
+
+.iBoardRow {
+	position: relative;
+	height: 55px;
+	width:  928px;
+	padding: 5px;
+	}
+
+.board {
+	position: relative;
+	height: 55px;
+	width:  55px;
+	display: inline;
+	padding: 1px;
+	margin: 1px;
+	border: 2px solid red;
+	}
+
+.original {
+	position: relative;
+	height: 55px;
+	width:  55px;
+	display: inline;
+	padding: 1px;
+	margin: 1px;
+	border: 2px solid red;
+	background-color: yellow;
+	}
+
+.original_ {
+	position: relative;
+	height: 65px;
+	width:  59px;
+	display: inline;
+	padding: 1px;
+	color: blue;
+	font-weight: bold;
+	font-size:18px;
+	margin: 1px;
+	border: 2px solid red;
+	background-color: yellow;
+	}
+	
+.iboard {
+	position: relative;
+	height: 55px;
+	width:  59px;
+	display: inline;
+	padding: 1px;
+	margin: 1px;
+	color: blue;
+	border: 4px solid inset blue;	
+	}
+
+.ib {
+	position: relative;
+	height: 49px;
+	width:  52px;
+	display: inline;
+	padding: 5px;
+	margin: 5px;
+	text-align: center;
+	font-size: 38px;
+	border: 2px solid inset red;	
+	}
+
+	
+.board_ {
+	position: relative;
+	height: 65px;
+	width:  59px;
+	display: inline;
+	padding: 1px;
+	color: white;
+	font-weight: bold;
+	font-size:18px;
+	margin: 1px;
+	border: 4px solid inset black;
+	background-color: black;
+	}
+	
